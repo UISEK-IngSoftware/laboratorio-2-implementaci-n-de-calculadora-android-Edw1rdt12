@@ -1,11 +1,12 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jKxTzPAY)
 # 📝 Laboratorio 2: Implementación de lógica en calculadora usando Kotlin y Jetpack
 
 ## 👤 Datos del Estudiante
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: [Nombre del estudiante]
-- **Carrera**: [Carrera del estudianete]
+- **Nombre completo**: [Edward Mancero]
+  - **Carrera**: [Ingenieria Informatica]
 
 ---
 
